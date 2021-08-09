@@ -1,0 +1,43 @@
+{
+  "name": "snowflake-dark",
+  "displayName": "Snowflake Dark Theme",
+  "description": "Yet another dark theme for VSCode",
+  "version": "1.0.0",
+  "icon": "images/icon.png",
+  "galleryBanner": {
+    "color": "#717BF0",
+    "theme": "dark"
+  },
+  "publisher": "snowflake107",
+  "author": {
+    "name": "Andromeda",
+    "url": "https://github.com/DevAndromeda",
+    "email": "devandromeda@snowflakedev.org"
+  },
+  "repository": {
+    "url": "https://github.com/DevSnowflake/VSCode-Snowflake"
+  },
+  "engines": {
+    "vscode": "^1.14.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark",
+    "dark-theme",
+    "vscode",
+    "snowflake",
+    "night"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Snowflake Dark Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/snowflake-dark.json"
+      }
+    ]
+  }
+}
