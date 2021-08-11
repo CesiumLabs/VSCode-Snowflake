@@ -37,6 +37,11 @@
         "label": "Snowflake Dark Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/snowflake-dark.json"
+      },
+      {
+        "label": "Snowflake Darker Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/snowflake-darker.json"
       }
     ]
   }
