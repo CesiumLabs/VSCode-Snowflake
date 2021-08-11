@@ -2,7 +2,7 @@
   "name": "snowflake-dark",
   "displayName": "Snowflake Dark Theme",
   "description": "Yet another dark theme for VSCode",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "icon": "images/icon.png",
   "galleryBanner": {
     "color": "#717BF0",
